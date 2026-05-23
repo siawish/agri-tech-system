@@ -1,0 +1,17 @@
+# Core Data Science Libraries
+numpy>=1.26.0
+pandas>=2.1.0
+scikit-learn>=1.3.0
+
+# Visualization
+matplotlib>=3.8.0
+seaborn>=0.13.0
+
+# Model Persistence
+joblib>=1.3.0
+
+# GUI (Tkinter is included with Python)
+# No additional installation needed for tkinter
+
+# Optional: For enhanced functionality
+scipy>=1.11.0

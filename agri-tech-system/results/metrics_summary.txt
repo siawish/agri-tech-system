@@ -1,0 +1,22 @@
+============================================================
+AGRICULTURAL INTELLIGENCE SYSTEM - METRICS SUMMARY
+DUAL DATASET APPROACH
+============================================================
+
+Decision Tree Classifier (Crop Recommendation Dataset):
+  Accuracy:  0.9727
+  Precision: 0.9740
+  Recall:    0.9727
+
+K-Means Clustering (Crop Recommendation Dataset):
+  Silhouette Score: 0.2925
+  Number of Clusters: 5
+
+Linear Regression (REAL Yield Dataset):
+  RMSE: 84455.2694 hg/ha
+  MAE:  64413.8933 hg/ha
+  R²:   0.0167
+
+Dataset Information:
+  Classification: Crop_recommendation.csv (2,200 samples)
+  Regression: yield_df.csv (real yield data)
